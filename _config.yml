@@ -9,7 +9,7 @@ picture: saman.webp
 # and specify source (external or local).
 resume: false
 resume-external: true
-resume-url: https://google.com/?q=Saman+Daneshvar+resume
+resume-url: https://google.com/?q=Sam+Daneshvar+resume
 
 permalink: /:title/
 
@@ -22,7 +22,7 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # If you don't have any of the social media accounts below, comment the line
-linkedin: SamanDaneshvar
+linkedin: SamDaneshvar
 github: SamanDaneshvar
 # gitlab: mygitlab
 google-scholar: l3-hk7sAAAAJ
@@ -42,13 +42,13 @@ orcid: 0000-0001-8780-7955
 # email-username: Saman
 # email-domain: Daneshvar.org
 # Enter the phone numbers in reverse (for bot protection)
-# phone: 1316-604 )316(
-# phone-url: 1316-604-316-1+:let
+# phone: 1111-111 )111(
+# phone-url: 1111-111-111-1+:let
 
 authors:
   saman:
-    name: Saman Daneshvar
-    bio: Data Analyst, Data Scientist, Machine Learning Engineer
+    name: Sam Daneshvar
+    bio: Machine Learning Engineer
     external-image: false
     picture: saman.webp
     twitter: SamanDaneshvar
@@ -68,7 +68,7 @@ pagination:
 
 # If you don't need projects, about, or blog, comment them below
 projects: true
-about: true
+about: false
 # blog: true
 
 # Do you want to show the "read time" of the posts?
