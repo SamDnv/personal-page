@@ -1,8 +1,6 @@
 # Used in the text of the home page and the title and description metatag of all pages.
-name: Saman Daneshvar
-bio: Data Analyst, Data Scientist
+name: Sam Daneshvar
+bio: Machine Learning Engineer
 description: >-
-  4+ years of experience in analyzing large datasets, extracting insights, and identifying trends using SQL, Python, R, and various machine learning frameworks.
-  Skilled in statistical analysis, data analysis, regression, and clustering.
-  Proficient in data visualization using Tableau, Power BI, matplotlib, and Excel.
-  Strong command of SQL and NoSQL database management systems.
+  Machine Learning Engineer with 5 years of experience in developing and deploying machine learning models for a wide range of applications, including natural language processing (NLP), sentiment analysis, predictive modeling, and time series forecasting. Proficient in advanced ML techniques such as transformer-based models (BERT, GPT) and deep learning (CNN, RNN) with hands-on experience in frameworks like TensorFlow, PyTorch, and scikit-learn. Expert in leveraging generative AI for text generation, summarization, and automating report workflows. Strong background in data engineering, building scalable ETL pipelines, and deploying models on cloud platforms (AWS, Azure, GCP). Proven track record in optimizing model performance through data preprocessing, feature engineering, and iterative model improvements. Adept at collaborating with cross-functional teams, mentoring junior engineers, and communicating complex technical concepts to stakeholders. Passionate about driving business solutions using data-driven insights and cutting-edge AI technologies.
+  
