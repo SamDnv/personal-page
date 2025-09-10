@@ -1,9 +1,9 @@
-url: https://saman.daneshvar.org
+url: https://sam.daneshvar.org
 
 # If it's an external image, update below to true.
 # Better with square images
 external-image: false
-picture: saman.webp
+picture: sam.webp
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -23,7 +23,7 @@ disqus:
 
 # If you don't have any of the social media accounts below, comment the line
 linkedin: SamDaneshvar
-github: SamanDaneshvar
+github: SamDnv
 # gitlab: mygitlab
 google-scholar: l3-hk7sAAAAJ
 orcid: 0000-0001-8780-7955
@@ -32,14 +32,14 @@ orcid: 0000-0001-8780-7955
 # quora: myquora
 # reddit: myreddit
 # youtube: myyoutube
-# facebook: Saman.Daneshvar
-# twitter: SamanDaneshvar
+# facebook: Sam.Dnv
+# twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
 # spotify: myspotify
 # lastfm: mylastfm
 # vimeo: myvimeo
-# email-username: Saman
+# email-username: Sam
 # email-domain: Daneshvar.org
 # Enter the phone numbers in reverse (for bot protection)
 # phone: 1111-111 )111(
@@ -50,8 +50,8 @@ authors:
     name: Sam Daneshvar
     bio: Machine Learning Engineer
     external-image: false
-    picture: saman.webp
-    twitter: SamanDaneshvar
+    picture: sam.webp
+    twitter: --
 
 # Do you want a larger site? change the option below
 # Options: [normal, large] | default: normal
