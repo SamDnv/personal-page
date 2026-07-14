@@ -2,7 +2,4 @@
 name: Sam Daneshvar
 bio: Machine Learning Engineer
 description: >-
-  Machine Learning Engineer based in San Francisco with 6+ years of experience building and scaling production ML and LLM systems. I specialize in agentic AI architectures, retrieval-augmented generation (RAG) pipelines, inference optimization, and safe large-scale deployment.
-  I’ve led the design and deployment of multi-agent workflows using LangGraph, replacing linear pipelines with dynamic stateful orchestration that accelerated decision-making and reduced errors. My work has consistently driven measurable impact — including cutting inference latency by 50%, reducing LLM costs by 35%, and improving retrieval accuracy by 45% across millions of records. To ensure reliability at scale, I’ve built LLM evaluation frameworks with automated regression testing, LLM-as-a-judge, and CI/CD-integrated A/B testing.
-  Beyond LLMs, I’ve developed and deployed time series forecasting models (ARIMA, SARIMA, Prophet, PyTorch) on cloud infrastructure, achieving double-digit accuracy gains and building production-ready pipelines with auto-scaling and monitoring. Earlier in my career, I engineered real-time NLP systems with transformers (BERT → GPT-3) and semantic search evolving into RAG pipelines, serving millions of daily requests with low-latency guarantees.
-  My academic background includes published research in social media profiling and NLP, with work cited 90+ times. I also contribute open-source projects on GitHub.
+  Machine Learning Engineer based in San Francisco
